@@ -1,0 +1,15 @@
+age_group,gender,employment_status,budget,purchases_mobile
+below 30,male,no,high,no
+below 30,female,no,high,no
+30 to 60,male,no,low,yes
+above 60,male,no,medium,yes
+above 60,male,yes,low,yes
+above 60,female,yes,low,no
+30 to 60,female,yes,high,yes
+below 30,male,no,medium,no
+below 30,male,yes,low,yes
+above 60,male,yes,medium,yes
+below 30,female,yes,medium,yes
+30 to 60,female,no,medium,yes
+30 to 60,male,yes,high,yes
+above 60,female,no,medium,no
