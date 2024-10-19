@@ -1,0 +1,1 @@
+start_msg = "I can help you to send text messages via Twilio! 📩 \nUse /send with the recipient’s phone number and message, \n\ne.g., /send 1234567890 Hello!.\n Confirm before sending. \n\nQuestions? @riz4d Just ask!"
