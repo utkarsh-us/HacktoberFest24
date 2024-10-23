@@ -1,4 +1,4 @@
-#Wordle Game
+# Wordle Game
 
 This project is a React application that replicates the famous word-guessing game, **Wordle**, originally popularized by The New York Times. The game challenges players to guess a word, offering feedback on each guess. Unlike the original game, te user can choose the number of characters in the word.
 
