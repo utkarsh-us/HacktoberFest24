@@ -19,7 +19,7 @@ This project is a React application that replicates the famous word-guessing gam
 3. Install the necessary libraries by running `npm install`.
 4. Start the application in development mode with:
 
-_The app should now be running at http://localhost:3000._
+_The app should now be running at http://localhost:5174._
 
 ## How to Play Wordle
 The game begins by selecting the number of letters in the word you need. The player has n + 1 chances to guess this word.
